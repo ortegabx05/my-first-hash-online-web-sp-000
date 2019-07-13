@@ -39,6 +39,6 @@ def adding
 
 
 
-  puts "sh"
+  puts shipping_manifest
 
 end
